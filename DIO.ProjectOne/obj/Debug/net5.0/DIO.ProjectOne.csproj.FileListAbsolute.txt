@@ -1,0 +1,16 @@
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\obj\Debug\net5.0\DIO.ProjectOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\obj\Debug\net5.0\DIO.ProjectOne.AssemblyInfoInputs.cache
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\obj\Debug\net5.0\DIO.ProjectOne.AssemblyInfo.cs
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\obj\Debug\net5.0\DIO.ProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\bin\Debug\net5.0\DIO.ProjectOne.exe
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\bin\Debug\net5.0\DIO.ProjectOne.deps.json
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\bin\Debug\net5.0\DIO.ProjectOne.runtimeconfig.json
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\bin\Debug\net5.0\DIO.ProjectOne.runtimeconfig.dev.json
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\bin\Debug\net5.0\DIO.ProjectOne.dll
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\bin\Debug\net5.0\ref\DIO.ProjectOne.dll
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\bin\Debug\net5.0\DIO.ProjectOne.pdb
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\obj\Debug\net5.0\DIO.ProjectOne.dll
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\obj\Debug\net5.0\ref\DIO.ProjectOne.dll
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\obj\Debug\net5.0\DIO.ProjectOne.pdb
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\obj\Debug\net5.0\DIO.ProjectOne.genruntimeconfig.cache
+C:\Users\Matheus\DotNet_Lesson\projectOne\DIO.ProjectOne\obj\Debug\net5.0\DIO.ProjectOne.csproj.AssemblyReference.cache
